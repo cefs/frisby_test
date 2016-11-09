@@ -1,0 +1,12 @@
+AngularJs test:
+http://ramonvictor.github.io/protractor/slides/#/51
+http://www.protractortest.org/#/
+
+Jasminie:
+https://jasmine.github.io/2.0/introduction.html
+
+
+FribyJs:
+http://frisbyjs.com/docs/api/
+http://stefanteixeira.com.br/2014/12/04/rodando-seus-testes-com-frisby-js-em-um-ambiente-de-ci-parte-1-introducao-ao-grunt/
+http://stefanteixeira.com.br/2014/12/14/rodando-seus-testes-com-frisby-js-em-um-ambiente-de-ci-parte-2-jenkins-e-dicas-sobre-frisby-js/

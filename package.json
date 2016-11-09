@@ -1,0 +1,10 @@
+{
+	"name" : "frisby_test",
+	"author" : "Elias Nogueira",
+	"main"	: "frisby_test_spec.js",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"frisby" : "*",
+		"jasmine-node" : "*"	
+	}
+}
