@@ -1,4 +1,7 @@
 language: node_js
 node_js:
 	- 5.1
-script: nosetests
+
+before_script:
+    - npm i -g jasmine-node
+    - npm i -g frisby
