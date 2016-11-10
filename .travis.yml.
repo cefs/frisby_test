@@ -2,6 +2,19 @@ language: node_js
 node_js:
 	- "5.11"
 
+sudo: required
+
+dist: trusty
+
+install:
+	- true
+
+script:
+	- true
+
+notifications:
+	email: false
+
 before_script:
     - "npm i -g frisby"
     - "npm i -g jasmine-node"
