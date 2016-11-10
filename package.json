@@ -6,5 +6,8 @@
 	"dependencies" : {
 		"frisby" : "*",
 		"jasmine-node" : "*"	
+	},
+	"scripts": {
+  		"test": "vows --spec"
 	}
 }
