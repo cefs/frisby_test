@@ -1,12 +1,9 @@
 language: node_js
 node_js:
 	stable
-
 sudo: required
-
 before_script:
     - "npm i -g frisby"
     - "npm i -g jasmine-node"
     - "npm install"
-
 script: npm test
