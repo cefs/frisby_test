@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test: SICAR - Status 200: success" errors="0" tests="1" failures="0" time="0.585" timestamp="2016-11-09T14:20:20">
-  <testcase classname="Frisby Test: SICAR - Status 200: success" name="
-	[ GET http://car.semas.pa.gov.br/receptor/integracao/imoveis/informacoes?codigo=PA-1501907-0AC76504FB6342788991DDFBC7FCEFD4 ]" time="0.583"></testcase>
-</testsuite>
-</testsuites>

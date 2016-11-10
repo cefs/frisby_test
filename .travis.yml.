@@ -6,4 +6,4 @@ before_script:
     - "npm i -g frisby"
     - "npm i -g jasmine-node"
 
-script: jasmine-node
+script: npm test

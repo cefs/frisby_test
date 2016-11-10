@@ -7,7 +7,7 @@
 		"frisby" : "*",
 		"jasmine-node" : "*"	
 	},
-	"scripts": {
-  		"test": "vows --spec"
-	}
+	"scripts" : {
+		"test": "jasmine-node spec"
+  	}
 }
